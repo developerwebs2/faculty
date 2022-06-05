@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 bbbbbb# Introdução
+=======
+# Introdução
+>>>>>>> 35c5342497b374a69ba425619459b9b822e969dd
 
 Nesta aula iremos fazer uma introdução à Teoria de Sistemas, e quais são as Classes de Sistema. Veremos ainda os princípios da Teoria de Sistemas.
 
