@@ -1,4 +1,4 @@
-bbbbb# Introdução
+# Introdução
 
 Nesta aula iremos fazer uma introdução à Teoria de Sistemas, e quais são as Classes de Sistema. Veremos ainda os princípios da Teoria de Sistemas.
 
