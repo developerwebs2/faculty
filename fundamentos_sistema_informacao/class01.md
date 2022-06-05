@@ -1,4 +1,4 @@
-bbbbb# Introdução
+bbbbbb# Introdução
 
 Nesta aula iremos fazer uma introdução à Teoria de Sistemas, e quais são as Classes de Sistema. Veremos ainda os princípios da Teoria de Sistemas.
 
@@ -88,3 +88,97 @@ A tabela abaixo apresenta alguns exemplos de dados e respectivas informações d
 ------
 
 # O que é um sistema de informação?
+
+De uma forma simples e direta podemos definir sistema de informação como um sistema cuja finalidade é **prover informação** a alguém na medida certa.
+
+A informação deve ser útil para quem a recebe, possibilitando a tomada de decisão dentro do contexto em que se aplica.
+
+Vejamos algumas definições:
+
+> **1** </br> è um conjunto de partes coordenadas que buscam prover a empresa com informações cujo objetivo é melhorar a tomada de decisões.
+
+Os sistemas de informação podem ser:
+
+> **2** </br> Conjunto organizado de pessoas, hardware, software, rede de comunicação e recursos de dados que coletam, transformam e disseminam informações em uma empresa (O' Brian, 2009)
+
+![manuais](.//img/manuais.png)
+
+> Fica evidente a limitação dos sistemas manuais no que se refere à capacidade do volume dado possível de processamento.
+  > Na medida em que o volume de dados é grande, os sistemas tendem a ser automáticos produzindo informações mais precisas e de melhor qualidade, possibilitando às empresas uma administração mais eficiente. </br></br> A automação de tarefas rotineiras não só reduz os custos como também melhora o controle sobre as operações que, por sua vez, torna possível a melhoria no processo decisório com informações mais confiáveis.
+
+## Tipos de sistemas de Informação
+
+O papel do sistema de informação nas empresas torna-se cada dia mais relevante.
+Podemos identificar três tipos de sistemas conforme o nível em que atuam nas organizações. são eles:
+> Sistemas de Processamento de Transação
+  Num primeiro momento, os sistemas automatizaram os processos rotineiros, os chamados **sistemas de processamento de transação (SPT)**, úteis não só na redução de custos mas também em um melhor controle e eficiência das operações de rotina. Os SPTs provêm informações de cunho operacional, ajudando no melhor controle das operações.
+
+> Sistemas de Informação Gerencial
+  A partir do momento que a operação funcionava de forma automatizada, os gestores perceberam que podiam expandir os sistemas para gerar informação mais complexa que pudesse apoiá-los nas decisões do dia a dia. Surgiam os **sistemas de informação gerencial (SIG)** para a gestão das atividades a que se destinavam. Os SIGs provêm informações gerenciais aos supervisores, gerentes e cargos correlatos, apoiando as decisões que se fazem necessárias no dia a dia.
+
+> Sistema Estratégicos
+  Não tardou muito para que o nível estratégico da empresa vislumbrasse que os sistemas podiam  proporcionar um diferencial competitivo em relação à concorrência. Era a geração dos **sistemas estratégicos (SIE)** que visam a atender à demanda da direção das empresas (diretores, vice-presidentes e presidentes), ajudando a traçar as diretrizes estratégicas da organização.
+
+  ---
+
+  ## Os Níveis da Organização e os Tipos de Sistema
+
+  Mostram a atuação de cada tipo de sistema no seu respectivo nível organizacional:
+  ![piramide](.//img/piramide.png)
+  
+  A tabela abaixo apresenta um quadro resumo dos tipos de sistemas de cada nível organizacional, relacionando a cada um tipo de informação que provê e quem faz uso dela: 
+
+  ![nivel](.//img/nivel.png)
+
+## Tecnologia de informação (TI)
+
+  > Tecnologia da Informação (TI) pode ser entendida como o conjunto de recursos tecnológicos e computacionais para a geração e uso da informação, ou seja, o  conjunto de recursos não humanos que desempenha uma ou mais tarefas de processamento das informações do SI tal como coletar, transmitir, armazenar, recuperar, manipular e exibir dados. Em sistemas de informação, a tecnologia da informação é fundamental, pois é o meio utilizado para alcançar os fins desejados.
+
+# Que TI estão presentes hoje nas empresas?
+
+![caixa3](.//img/caixa3.png)
+
+Podemos concluir que a tecnologia de informação (TI) é a infra-estrutura para os sistemas de informação (SI).
+
+![texto](.//img/texto.png)
+
+![conceitos](./img/conceitos.png)
+
+## Características básicas dos sistemas de informação
+
+> Os sistemas estão inseridos em um contexto complexo
+
+Já sabemos que os sistemas estão inseridos no contexto das organizações, conforme está ilustrado na figura abaixo. Isso significa dizer que, assim como as empresas, os sistemas sofrem influência do ambiente em que estão inseridos, representados por:
+
+- Clientes.
+- Fornecedores.
+- Acionistas.
+- Concorrentes.
+- Agência reguladora, dentre outros
+
+![ambiente](./img/ambiente.png)
+
+> Os sistemas são organizados em níveis hierárquicos
+
+Os sistemas são constituídos hierarquicamente de outros sistemas denominados subsistemas.
+
+**Por exemplo**: Um Sistema Financeiro pode ser formado pelos subsistemas recebimentos, pagamentos e fluxo de caixa.
+
+Os subsistemas são partes de um sistema maior que podem ser formados por outros subsistemas (hierarquia de níveis).
+
+O subsistema de recebimentos pode ser formado pelos subsistemas de contas a receber e contas recebidas, e cada um desses subsistemas, por sua vez, pode ser constituído de outros e assim sucessivamente.
+
+![esquema2](./img/esquema2.png)
+
+## Teoria Geral dos Sistemas
+
+A Teoria Geral dos Sistemas forneceu uma base para a unificação dos conhecimentos científicos e tecnológicos nas últimas décadas.
+
+Ela tem por finalidade:
+
+• Analisar a natureza dos sistemas e a relação entre suas partes;
+
+• Identificar leis, propriedades e princípios característicos dos sistemas em geral.
+
+A teoria de sistemas possui duas características relevantes. São elas:
+
